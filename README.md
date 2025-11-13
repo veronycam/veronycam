@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Pelaelo 👋
 # 💫 About Me:
 I am using HTML, CSS and Java Script to learn to make websites<br>I am still learning about HTML, CSS and JavaScript. <br>I am at advanced Learning.<br>I am looking for a job or internship.<br>
 
