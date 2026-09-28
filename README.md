@@ -34,7 +34,7 @@ I'm currently building hands-on projects and looking for opportunities to grow i
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://nirzak-streak-stats.vercel.app/?user=veronycam&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=veronycam&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
